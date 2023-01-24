@@ -1,0 +1,22 @@
+@import "./normalize.css";
+@import "./bootstrap-grid.css";
+@import "./base.css";
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@600&display=swap');
+
+
+
+.item {
+    margin-left: auto;
+    margin-right: auto;
+    width: 260px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
